@@ -5,8 +5,8 @@ This game is about an Alien, which is the player, versus zombie(s) in a board th
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-[Video Demo](https://youtu.be/y8tNC2Zn12A).
-
+[Video Demo 1](https://youtu.be/y8tNC2Zn12A).
+[Video Demo 2]().
 ## Compilation Instructions
 
 Provide instructions on how to compile your program, especially when it is non-trivial.
@@ -24,8 +24,11 @@ Please provide the user manual on how to use your program.
 2. Type in "y" or "n" as the user input, depending on if you want to change the settings.
 3. Then it will display the board with number of rows, columns and zombies that have been set, including "A" in the centre and randomly placed objects.
 4. There will also be Alien's life and attack are constants, as well as Zombie's life, attack and range which are randomly given.
-5. If you want to quit the game, input "quit" in the command section displayed, type in "y" to quit and "n" to continue.
-6. Input "help" in the command section to display the commands.
+5. If you want to change the direction of arrow, input "arrow" in the command section, type in the row, column and direction of the arrow which you want to change.
+6. If you want to save the game, input "save" in the command section, type in the file name follow by ".txt" at the end.
+7. If you want to load the previous game which you had save, input "load" in the command section, type in the filename.
+8. If you want to quit the game, input "quit" in the command section displayed, type in "y" to quit and "n" to continue.
+9. Input "help" in the command section to display the commands.
 
 Please DO NOT change the Progress Log below. Leave it as it is.
 
