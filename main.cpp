@@ -1356,7 +1356,7 @@ void arrowUp(string &commands, int &boardRows, int &boardColumns, int &zombieCou
                 zombie.zombieLife[zombieIndex] -= alien.initial_attack;
                 if (zombie.zombieLife[zombieIndex] > 0)
                 {
-                    cout << "Zombie " << zombieIndex + 1 << "still alive." << endl;
+                    cout << "Zombie " << zombieIndex + 1 << " still alive." << endl;
                     system("pause");
                     break;
                     done = true;
@@ -1505,7 +1505,7 @@ void arrowDown(string &commands, int &boardRows, int &boardColumns, int &zombieC
                 zombie.zombieLife[zombieIndex] -= alien.initial_attack;
                 if (zombie.zombieLife[zombieIndex] > 0)
                 {
-                    cout << "Zombie " << zombieIndex + 1 << "still alive." << endl;
+                    cout << "Zombie " << zombieIndex + 1 << " still alive." << endl;
                     system("pause");
                     break;
                     done = true;
