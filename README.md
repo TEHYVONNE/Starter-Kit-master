@@ -5,7 +5,7 @@ This game is about an Alien, which is the player, versus zombie(s) in a board th
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-Please provide the YouTube link to your [Video Demo](https://youtu.be/y8tNC2Zn12A).
+[Video Demo](https://youtu.be/y8tNC2Zn12A).
 
 ## Compilation Instructions
 
